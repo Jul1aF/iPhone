@@ -1,18 +1,11 @@
-## Getting Started
+# Desafio-POO
+Repositório para criação do desafio DIO sobre POO - Diagramação de um iPhone
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+## Descrição
+Neste repositório voce encontrará a conclusão do desafio de modelagem DIO, que consiste em implementar uma modelagem de um aparelho iPhone
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Diagrama
+<p align="center">
+  <img src="Diagramacao Iphone.png" alt="Diagrama de Classes">
+</p>
